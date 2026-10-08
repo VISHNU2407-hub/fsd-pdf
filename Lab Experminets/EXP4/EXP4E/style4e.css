@@ -1,0 +1,18 @@
+/* All text input fields */
+
+input[type="text"] {
+  background-color: lightyellow;
+}
+
+/* Password field */
+
+input[type="password"] {
+  background-color: lightblue;
+}
+
+/* Hyperlink having target attribute */
+
+a[target] {
+  color: green;
+  font-weight: bold;
+}

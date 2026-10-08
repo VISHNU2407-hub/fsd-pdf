@@ -1,0 +1,33 @@
+<style>
+
+        /* Color Name */
+        h1{
+            color:red;
+        }
+
+        /* HEX Value */
+        h2{
+            color:#0000FF;
+        }
+
+        /* RGB Value */
+        h3{
+            color:rgb(0,128,0);
+        }
+
+        /* RGBA Value */
+        h4{
+            color:rgba(255,0,0,0.5);
+        }
+
+        /* HSL Value */
+        h5{
+            color:hsl(300,100%,40%);
+        }
+
+        /* HSLA Value */
+        h6{
+            color:hsla(210,100%,40%,0.7);
+        }
+
+    </style>
