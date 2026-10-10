@@ -25,7 +25,7 @@ Object.defineProperty(Student.prototype, "details", {
 });
 
 function showStudent() {
-  let s1 = new Student("P.Vishnu Vardhan Reddy", 501, "CSE");
+  let s1 = new Student("P.Vishnu Vardhan Reddy", 167, "CSM");
 
   document.getElementById("demo").innerHTML =
     s1.display() + "<br><br><b>Accessor:</b> " + s1.details;

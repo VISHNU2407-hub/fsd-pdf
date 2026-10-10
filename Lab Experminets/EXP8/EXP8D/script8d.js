@@ -1,8 +1,8 @@
 function displayData() {
   let student = {
     Name: "P.Vishnu Vardhan Reddy",
-    Roll: 501,
-    Branch: "CSE",
+    Roll: 167,
+    Branch: "CSM",
   };
 
   let output = "<h3>for-in</h3>";
